@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043075187507",
+    "project_id": "jioos-3ae31",
+    "storage_bucket": "jioos-3ae31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043075187507:android:21d3704dbb0c22fc34b446",
+        "android_client_info": {
+          "package_name": "com.example.flashchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2w5YY9sy9p1xx0Bd1l2NJigRSvRkqbsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
